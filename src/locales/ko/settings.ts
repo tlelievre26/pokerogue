@@ -63,6 +63,7 @@ export const settings: SimpleTranslationEntries = {
   "masterVolume": "마스터 볼륨",
   "bgmVolume": "BGM 볼륨",
   "seVolume": "SE 볼륨",
+  "uiSoundEffects": "UI Sound Effects",
   "musicPreference": "음악 설정",
   "mixed": "믹스",
   "gamepadPleasePlug": "게임패드를 연결하거나 버튼을 입력하세요",

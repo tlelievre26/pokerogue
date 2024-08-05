@@ -63,6 +63,7 @@ export const settings: SimpleTranslationEntries = {
   "masterVolume": "Gesamtlautstärke",
   "bgmVolume": "Hintergrundmusik",
   "seVolume": "Spezialeffekte",
+  "uiSoundEffects": "UI Sound Effects",
   "musicPreference": "Musik Präferenz",
   "mixed": "Gemischt",
   "gamepadPleasePlug": "Bitte einen Controller anschließen oder eine Taste drücken.",
